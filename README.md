@@ -19,7 +19,7 @@
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouradden&hide_progress=true)
 
 
-   <div id="badges">
+   <div id="badges" href="https://www.linkedin.com/in/mourad-denguir/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </div>
 </div>
