@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21tZG5ydmd0YzMxbTg5cjM3bnphcWFld3RwdXR6YWpoY2NlcWRpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300"/><br />
-   ## Hi there 👋
+   ## Hi there 👋 I'm a web developer. I love learning new things
       	  
    <!--
    **mouradden/mouradden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
