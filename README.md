@@ -22,10 +22,14 @@
    - ⚡ Fun fact: ...
    -->
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouradden&hide_progress=true)
-
-🌐 Socials: <br />
+<br /><br />
+🌐 Socials: <br /><br />
    <a id="badges"  href="https://www.linkedin.com/in/mourad-denguir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+
+  <br /><br />
+
+  💻 Tech Stack: <br /><br />
 </div>
 
